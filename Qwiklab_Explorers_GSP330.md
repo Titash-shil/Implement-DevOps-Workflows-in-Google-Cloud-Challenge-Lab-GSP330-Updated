@@ -50,11 +50,11 @@ sudo chmod +x qwiklab_explorers_gsp330-1.sh
 - ### Step 2: Download and Run Script :
 
 ```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Implement%20DevOps%20Workflows%20in%20Google%20Cloud%20Challenge%20Lab/gsp330-2.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Implement-DevOps-Workflows-in-Google-Cloud-Challenge-Lab-GSP330-Updated/refs/heads/main/qwiklab_explorers_gsp330-2.sh
 
-sudo chmod +x gsp330-2.sh
+sudo chmod +x qwiklab_explorers_gsp330-2.sh
 
-./gsp330-2.sh
+./qwiklab_explorers_gsp330-2.sh
 ```
 ---
 
